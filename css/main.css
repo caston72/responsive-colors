@@ -65,21 +65,29 @@ footer {
 
   #column-1 {
     background-color: #e0ffff;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #afeeee;
+    width: 50%;
   }
 
   #column-3 {
     background-color: #7fffd4;
+    width: 100%;
   }
 
   footer {
     background-color: #40e0d0;
   }
+
+  .col-3 {
+    width: 50%;
+  }
   
 }
+
 
 
 /*---------- Desktops ----------*/
@@ -90,14 +98,17 @@ footer {
 
   #column-1 {
     background-color: #e6e6fa;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: #d8bfd8;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: #dda0dd;
+    width: 33.3%;
   }
 
   footer {
